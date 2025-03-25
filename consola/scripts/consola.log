@@ -1,0 +1,332 @@
+[INFO] 03:24:32:361 CONSOLA/(2681:2681): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:24:32:362 CONSOLA/(2681:2681): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:24:32:363 CONSOLA/(2681:2681): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:24:33:367 CONSOLA/(2683:2683): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:24:33:377 CONSOLA/(2683:2683): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:24:33:377 CONSOLA/(2683:2683): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:24:34:374 CONSOLA/(2685:2685): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:24:34:376 CONSOLA/(2685:2685): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:24:34:377 CONSOLA/(2685:2685): Conexión exitosa con el modulo KERNEL 
+
+[ERROR] 03:24:48:539 CONSOLA/(2685:2685): Se rompio todo :(
+
+[ERROR] 03:24:48:543 CONSOLA/(2683:2683): Se rompio todo :(
+
+[ERROR] 03:24:48:545 CONSOLA/(2681:2681): Se rompio todo :(
+
+[INFO] 03:25:00:997 CONSOLA/(2709:2709): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:00:998 CONSOLA/(2709:2709): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:00:998 CONSOLA/(2709:2709): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:25:02:014 CONSOLA/(2711:2711): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:02:029 CONSOLA/(2711:2711): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:02:032 CONSOLA/(2711:2711): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:25:03:033 CONSOLA/(2713:2713): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:03:037 CONSOLA/(2713:2713): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:03:039 CONSOLA/(2713:2713): Conexión exitosa con el modulo KERNEL 
+
+[ERROR] 03:25:04:202 CONSOLA/(2713:2713): Se rompio todo :(
+
+[ERROR] 03:25:04:202 CONSOLA/(2711:2711): Se rompio todo :(
+
+[ERROR] 03:25:04:202 CONSOLA/(2709:2709): Se rompio todo :(
+
+[INFO] 03:25:13:345 CONSOLA/(2733:2733): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:13:347 CONSOLA/(2733:2733): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:13:351 CONSOLA/(2733:2733): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:25:13:355 CONSOLA/(2733:2733): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:25:14:366 CONSOLA/(2736:2736): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:14:376 CONSOLA/(2736:2736): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:14:376 CONSOLA/(2736:2736): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:25:14:383 CONSOLA/(2736:2736): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:25:15:371 CONSOLA/(2739:2739): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:25:15:377 CONSOLA/(2739:2739): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:25:15:378 CONSOLA/(2739:2739): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:25:15:383 CONSOLA/(2739:2739): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:25:31:540 CONSOLA/(2733:2733): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:25:59:277 CONSOLA/(2736:2736): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:26:00:325 CONSOLA/(2739:2739): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:26:34:042 CONSOLA/(2761:2761): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:26:34:054 CONSOLA/(2761:2761): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:26:34:056 CONSOLA/(2761:2761): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:26:34:060 CONSOLA/(2761:2761): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:26:35:069 CONSOLA/(2764:2764): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:26:35:070 CONSOLA/(2764:2764): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:26:35:074 CONSOLA/(2764:2764): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:26:35:078 CONSOLA/(2764:2764): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:26:36:081 CONSOLA/(2767:2767): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:26:36:088 CONSOLA/(2767:2767): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:26:36:089 CONSOLA/(2767:2767): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:26:36:091 CONSOLA/(2767:2767): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:26:52:256 CONSOLA/(2761:2761): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:27:19:989 CONSOLA/(2764:2764): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:27:21:048 CONSOLA/(2767:2767): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:28:16:923 CONSOLA/(2781:2781): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:28:16:924 CONSOLA/(2781:2781): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:28:16:925 CONSOLA/(2781:2781): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:28:16:932 CONSOLA/(2781:2781): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:28:17:927 CONSOLA/(2784:2784): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:28:17:928 CONSOLA/(2784:2784): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:28:17:929 CONSOLA/(2784:2784): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:28:17:932 CONSOLA/(2784:2784): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:28:18:937 CONSOLA/(2787:2787): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:28:18:940 CONSOLA/(2787:2787): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:28:18:942 CONSOLA/(2787:2787): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:28:18:952 CONSOLA/(2787:2787): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:28:39:213 CONSOLA/(2781:2781): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:29:02:862 CONSOLA/(2784:2784): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:29:03:916 CONSOLA/(2787:2787): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:29:57:521 CONSOLA/(2804:2804): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:29:57:524 CONSOLA/(2804:2804): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:29:57:524 CONSOLA/(2804:2804): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:29:57:529 CONSOLA/(2804:2804): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:29:58:521 CONSOLA/(2808:2808): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:29:58:524 CONSOLA/(2808:2808): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:29:58:524 CONSOLA/(2808:2808): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:29:58:528 CONSOLA/(2808:2808): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:29:59:530 CONSOLA/(2812:2812): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:29:59:535 CONSOLA/(2812:2812): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:29:59:537 CONSOLA/(2812:2812): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:29:59:557 CONSOLA/(2812:2812): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:30:51:199 CONSOLA/(2834:2834): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:30:51:203 CONSOLA/(2834:2834): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:30:51:203 CONSOLA/(2834:2834): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:30:51:207 CONSOLA/(2834:2834): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:31:43:055 CONSOLA/(2862:2862): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:31:43:061 CONSOLA/(2862:2862): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:31:43:062 CONSOLA/(2862:2862): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:31:43:078 CONSOLA/(2862:2862): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:31:43:265 CONSOLA/(2865:2865): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:31:43:267 CONSOLA/(2865:2865): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:31:43:267 CONSOLA/(2865:2865): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:31:43:270 CONSOLA/(2865:2865): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:31:43:479 CONSOLA/(2868:2868): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:31:43:484 CONSOLA/(2868:2868): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:31:43:486 CONSOLA/(2868:2868): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:31:43:498 CONSOLA/(2868:2868): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:31:43:684 CONSOLA/(2872:2872): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:31:43:686 CONSOLA/(2872:2872): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:31:43:686 CONSOLA/(2872:2872): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:31:43:689 CONSOLA/(2872:2872): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:31:44:089 CONSOLA/(2862:2862): Proceso 1 ha finalizado con motivo: RESOURCE_NOT_FOUND
+[INFO] 03:31:45:153 CONSOLA/(2865:2865): Proceso 2 ha finalizado con motivo: RESOURCE_NOT_FOUND
+[INFO] 03:31:49:213 CONSOLA/(2868:2868): Proceso 3 ha finalizado con motivo: SEG_FAULT
+[INFO] 03:31:49:395 CONSOLA/(2872:2872): Proceso 4 ha finalizado con motivo: OUT_OF_MEMORY
+[INFO] 03:33:06:930 CONSOLA/(2901:2901): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:33:06:936 CONSOLA/(2901:2901): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:33:06:937 CONSOLA/(2901:2901): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:33:06:941 CONSOLA/(2901:2901): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:33:07:949 CONSOLA/(2904:2904): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:33:07:951 CONSOLA/(2904:2904): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:33:07:956 CONSOLA/(2904:2904): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:33:08:949 CONSOLA/(2904:2904): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:35:20:329 CONSOLA/(2904:2904): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:35:36:669 CONSOLA/(2901:2901): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:36:08:081 CONSOLA/(2939:2939): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:36:08:084 CONSOLA/(2939:2939): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:36:08:086 CONSOLA/(2939:2939): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:36:08:096 CONSOLA/(2939:2939): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:36:09:099 CONSOLA/(2942:2942): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:36:09:103 CONSOLA/(2942:2942): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:36:09:105 CONSOLA/(2942:2942): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:36:09:111 CONSOLA/(2942:2942): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:36:10:102 CONSOLA/(2945:2945): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:36:10:104 CONSOLA/(2945:2945): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:36:10:105 CONSOLA/(2945:2945): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:36:10:111 CONSOLA/(2945:2945): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:36:11:104 CONSOLA/(2948:2948): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:36:11:105 CONSOLA/(2948:2948): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:36:11:106 CONSOLA/(2948:2948): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:36:11:112 CONSOLA/(2948:2948): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:36:25:284 CONSOLA/(2939:2939): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:36:42:434 CONSOLA/(2942:2942): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:36:59:588 CONSOLA/(2945:2945): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:37:16:737 CONSOLA/(2948:2948): Proceso 4 ha finalizado con motivo: SUCCESS
+[INFO] 03:39:07:138 CONSOLA/(2962:2962): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:39:07:148 CONSOLA/(2962:2962): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:39:07:149 CONSOLA/(2962:2962): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:39:07:153 CONSOLA/(2962:2962): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:39:10:148 CONSOLA/(2966:2966): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:39:10:150 CONSOLA/(2966:2966): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:39:10:151 CONSOLA/(2966:2966): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:39:10:155 CONSOLA/(2966:2966): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:39:13:153 CONSOLA/(2969:2969): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:39:13:159 CONSOLA/(2969:2969): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:39:13:160 CONSOLA/(2969:2969): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:39:13:521 CONSOLA/(2969:2969): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:39:22:520 CONSOLA/(2969:2969): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:39:22:565 CONSOLA/(2962:2962): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:39:22:609 CONSOLA/(2966:2966): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:39:57:548 CONSOLA/(2986:2986): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:39:57:552 CONSOLA/(2986:2986): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:39:57:554 CONSOLA/(2986:2986): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:39:57:564 CONSOLA/(2986:2986): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:40:00:552 CONSOLA/(2989:2989): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:40:00:554 CONSOLA/(2989:2989): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:40:00:554 CONSOLA/(2989:2989): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:40:00:559 CONSOLA/(2989:2989): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:40:03:559 CONSOLA/(2992:2992): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:40:03:561 CONSOLA/(2992:2992): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:40:03:562 CONSOLA/(2992:2992): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:40:03:929 CONSOLA/(2992:2992): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:40:12:926 CONSOLA/(2992:2992): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:40:12:971 CONSOLA/(2986:2986): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:40:13:012 CONSOLA/(2989:2989): Proceso 2 ha finalizado con motivo: SUCCESS
+[INFO] 03:40:53:585 CONSOLA/(3005:3005): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:40:53:588 CONSOLA/(3005:3005): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:40:53:590 CONSOLA/(3005:3005): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:40:53:604 CONSOLA/(3005:3005): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:40:56:594 CONSOLA/(3008:3008): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:40:56:599 CONSOLA/(3008:3008): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:40:56:599 CONSOLA/(3008:3008): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:40:56:603 CONSOLA/(3008:3008): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:40:59:599 CONSOLA/(3011:3011): El cliente se conectara a 127.0.0.1:8000 
+
+[INFO] 03:40:59:600 CONSOLA/(3011:3011): Cliente conectado en 127.0.0.1:8000 (a KERNEL)
+
+[INFO] 03:40:59:601 CONSOLA/(3011:3011): Conexión exitosa con el modulo KERNEL 
+
+[INFO] 03:40:59:972 CONSOLA/(3011:3011): Confirmacion Recibida :D - Kernel recibio las instrucciones
+
+[INFO] 03:42:08:948 CONSOLA/(3011:3011): Proceso 3 ha finalizado con motivo: SUCCESS
+[INFO] 03:42:08:996 CONSOLA/(3005:3005): Proceso 1 ha finalizado con motivo: SUCCESS
+[INFO] 03:42:09:041 CONSOLA/(3008:3008): Proceso 2 ha finalizado con motivo: SUCCESS

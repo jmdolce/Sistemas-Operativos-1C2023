@@ -1,0 +1,241 @@
+[INFO] 03:22:18:900 FILESYSTEM/(2664:2664): Config cargada en filesystem
+[INFO] 03:22:18:900 FILESYSTEM/(2664:2664): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:22:18:901 FILESYSTEM/(2664:2664): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:22:18:901 FILESYSTEM/(2664:2664): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:22:41:005 FILESYSTEM/(2667:2667): Config cargada en filesystem
+[INFO] 03:22:41:006 FILESYSTEM/(2667:2667): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:22:41:008 FILESYSTEM/(2667:2667): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:22:41:008 FILESYSTEM/(2667:2667): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:22:41:013 FILESYSTEM/(2667:2667): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:22:41:013 FILESYSTEM/(2667:2667): Servidor listo para recibir al cliente 
+
+[INFO] 03:24:50:621 FILESYSTEM/(2667:2667): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:24:56:399 FILESYSTEM/(2705:2705): Config cargada en filesystem
+[INFO] 03:24:56:401 FILESYSTEM/(2705:2705): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:24:56:402 FILESYSTEM/(2705:2705): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:24:56:402 FILESYSTEM/(2705:2705): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:24:56:407 FILESYSTEM/(2705:2705): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:24:56:407 FILESYSTEM/(2705:2705): Servidor listo para recibir al cliente 
+
+[INFO] 03:25:04:049 FILESYSTEM/(2705:2705): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:25:11:254 FILESYSTEM/(2724:2724): Config cargada en filesystem
+[INFO] 03:25:11:259 FILESYSTEM/(2724:2724): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:25:11:260 FILESYSTEM/(2724:2724): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:25:11:261 FILESYSTEM/(2724:2724): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:25:11:267 FILESYSTEM/(2724:2724): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:25:11:268 FILESYSTEM/(2724:2724): Servidor listo para recibir al cliente 
+
+[INFO] 03:26:18:064 FILESYSTEM/(2724:2724): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:26:29:165 FILESYSTEM/(2752:2752): Config cargada en filesystem
+[INFO] 03:26:29:166 FILESYSTEM/(2752:2752): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:26:29:167 FILESYSTEM/(2752:2752): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:26:29:168 FILESYSTEM/(2752:2752): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:26:29:173 FILESYSTEM/(2752:2752): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:26:29:176 FILESYSTEM/(2752:2752): Servidor listo para recibir al cliente 
+
+[INFO] 03:27:26:483 FILESYSTEM/(2752:2752): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:28:10:235 FILESYSTEM/(2772:2772): Config cargada en filesystem
+[INFO] 03:28:10:237 FILESYSTEM/(2772:2772): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:28:10:237 FILESYSTEM/(2772:2772): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:28:10:238 FILESYSTEM/(2772:2772): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:28:10:242 FILESYSTEM/(2772:2772): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:28:10:242 FILESYSTEM/(2772:2772): Servidor listo para recibir al cliente 
+
+[INFO] 03:29:09:031 FILESYSTEM/(2772:2772): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:29:50:521 FILESYSTEM/(2795:2795): Config cargada en filesystem
+[INFO] 03:29:50:522 FILESYSTEM/(2795:2795): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:29:50:523 FILESYSTEM/(2795:2795): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:29:50:523 FILESYSTEM/(2795:2795): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:29:50:527 FILESYSTEM/(2795:2795): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:29:50:528 FILESYSTEM/(2795:2795): Servidor listo para recibir al cliente 
+
+[INFO] 03:31:01:212 FILESYSTEM/(2795:2795): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:31:33:821 FILESYSTEM/(2853:2853): Config cargada en filesystem
+[INFO] 03:31:33:822 FILESYSTEM/(2853:2853): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:31:33:823 FILESYSTEM/(2853:2853): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:31:33:824 FILESYSTEM/(2853:2853): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:31:33:829 FILESYSTEM/(2853:2853): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:31:33:829 FILESYSTEM/(2853:2853): Servidor listo para recibir al cliente 
+
+[INFO] 03:32:01:225 FILESYSTEM/(2853:2853): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:33:00:391 FILESYSTEM/(2892:2892): Config cargada en filesystem
+[INFO] 03:33:00:395 FILESYSTEM/(2892:2892): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:33:00:396 FILESYSTEM/(2892:2892): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:33:00:397 FILESYSTEM/(2892:2892): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:33:00:400 FILESYSTEM/(2892:2892): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:33:00:400 FILESYSTEM/(2892:2892): Servidor listo para recibir al cliente 
+
+[WARNING] 03:33:19:028 FILESYSTEM/(2892:2892): Abrir archivo: Consoles 
+
+[WARNING] 03:33:19:075 FILESYSTEM/(2892:2892): Crear archivo: Consoles 
+
+[WARNING] 03:33:19:120 FILESYSTEM/(2892:2892): Truncar archivo: Consoles - Tamanio: 256 
+
+[WARNING] 03:33:19:121 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 0, Estado: 0 
+
+[WARNING] 03:33:19:124 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 1, Estado: 0 
+
+[WARNING] 03:33:19:125 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 2, Estado: 0 
+
+[WARNING] 03:33:34:136 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 3, Estado: 0 
+
+[WARNING] 03:33:49:143 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 4, Estado: 0 
+
+[WARNING] 03:34:04:289 FILESYSTEM/(2892:2892): Escribir Archivo: Consoles - Puntero: 128 - Memoria: 32 - Tamanio: 80 
+
+[WARNING] 03:34:05:293 FILESYSTEM/(2892:2892): Acceso Bloque Punteros - Archivo: Consoles - Bloque File System: 1 
+
+[WARNING] 03:34:20:294 FILESYSTEM/(2892:2892): Acceso Bloque - Archivo: Consoles - Bloque Archivo: 2 - Bloque File System: 3 
+
+[WARNING] 03:34:35:300 FILESYSTEM/(2892:2892): Acceso Bloque - Archivo: Consoles - Bloque Archivo: 3 - Bloque File System: 4 
+
+[INFO] 03:34:50:306 FILESYSTEM/(2892:2892): Datos escritos en disco: SonyPlaystation1SonyPlaystation2SonyPlaystation3SonyPlaystation4SonyPlaystation5 
+
+[INFO] 03:34:50:306 FILESYSTEM/(2892:2892): Mostrando data del archivo mapeado en el archivo original: 
+
+[WARNING] 03:35:20:420 FILESYSTEM/(2892:2892): Abrir archivo: Videogames 
+
+[WARNING] 03:35:20:465 FILESYSTEM/(2892:2892): Crear archivo: Videogames 
+
+[WARNING] 03:35:20:466 FILESYSTEM/(2892:2892): Truncar archivo: Videogames - Tamanio: 64 
+
+[WARNING] 03:35:20:470 FILESYSTEM/(2892:2892): Acceso a Bitmap - Bloque: 5, Estado: 0 
+
+[WARNING] 03:35:20:600 FILESYSTEM/(2892:2892): Escribir Archivo: Videogames - Puntero: 0 - Memoria: 0 - Tamanio: 16 
+
+[WARNING] 03:35:21:602 FILESYSTEM/(2892:2892): Acceso Bloque - Archivo: Videogames - Bloque Archivo: 0 - Bloque File System: 5 
+
+[INFO] 03:35:36:604 FILESYSTEM/(2892:2892): Datos escritos en disco: SonicTheHedgehog 
+
+[INFO] 03:35:36:607 FILESYSTEM/(2892:2892): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:35:52:734 FILESYSTEM/(2892:2892): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:36:02:759 FILESYSTEM/(2930:2930): Config cargada en filesystem
+[INFO] 03:36:02:762 FILESYSTEM/(2930:2930): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:36:02:763 FILESYSTEM/(2930:2930): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:36:02:768 FILESYSTEM/(2930:2930): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:36:02:771 FILESYSTEM/(2930:2930): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:36:02:774 FILESYSTEM/(2930:2930): Servidor listo para recibir al cliente 
+
+[WARNING] 03:36:08:094 FILESYSTEM/(2930:2930): Abrir archivo: Videogames 
+
+[WARNING] 03:36:08:224 FILESYSTEM/(2930:2930): Leer Archivo: Videogames - Puntero: 0 - Memoria: 16 - Tamanio: 16 
+
+[WARNING] 03:36:08:224 FILESYSTEM/(2930:2930): Acceso Bloque - Archivo: Videogames - Bloque Archivo: 0 - Bloque File System: 5 
+
+[INFO] 03:36:23:225 FILESYSTEM/(2930:2930): Datos leidos de disco: SonicTheHedgehog 
+
+[INFO] 03:36:24:227 FILESYSTEM/(2930:2930): Lectura de archivo exitosa 
+
+[WARNING] 03:36:25:373 FILESYSTEM/(2930:2930): Leer Archivo: Videogames - Puntero: 0 - Memoria: 16 - Tamanio: 16 
+
+[WARNING] 03:36:25:373 FILESYSTEM/(2930:2930): Acceso Bloque - Archivo: Videogames - Bloque Archivo: 0 - Bloque File System: 5 
+
+[INFO] 03:36:40:373 FILESYSTEM/(2930:2930): Datos leidos de disco: SonicTheHedgehog 
+
+[INFO] 03:36:41:376 FILESYSTEM/(2930:2930): Lectura de archivo exitosa 
+
+[WARNING] 03:36:42:533 FILESYSTEM/(2930:2930): Leer Archivo: Videogames - Puntero: 0 - Memoria: 16 - Tamanio: 16 
+
+[WARNING] 03:36:42:533 FILESYSTEM/(2930:2930): Acceso Bloque - Archivo: Videogames - Bloque Archivo: 0 - Bloque File System: 5 
+
+[INFO] 03:36:57:534 FILESYSTEM/(2930:2930): Datos leidos de disco: SonicTheHedgehog 
+
+[INFO] 03:36:58:539 FILESYSTEM/(2930:2930): Lectura de archivo exitosa 
+
+[WARNING] 03:36:59:677 FILESYSTEM/(2930:2930): Leer Archivo: Videogames - Puntero: 0 - Memoria: 16 - Tamanio: 16 
+
+[WARNING] 03:36:59:677 FILESYSTEM/(2930:2930): Acceso Bloque - Archivo: Videogames - Bloque Archivo: 0 - Bloque File System: 5 
+
+[INFO] 03:37:14:677 FILESYSTEM/(2930:2930): Datos leidos de disco: SonicTheHedgehog 
+
+[INFO] 03:37:15:682 FILESYSTEM/(2930:2930): Lectura de archivo exitosa 
+
+[INFO] 03:37:57:670 FILESYSTEM/(2930:2930): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:39:05:926 FILESYSTEM/(2953:2953): Config cargada en filesystem
+[INFO] 03:39:05:927 FILESYSTEM/(2953:2953): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:39:05:928 FILESYSTEM/(2953:2953): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:39:05:929 FILESYSTEM/(2953:2953): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:39:05:941 FILESYSTEM/(2953:2953): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:39:05:941 FILESYSTEM/(2953:2953): Servidor listo para recibir al cliente 
+
+[INFO] 03:39:36:898 FILESYSTEM/(2953:2953): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:39:55:998 FILESYSTEM/(2977:2977): Config cargada en filesystem
+[INFO] 03:39:55:999 FILESYSTEM/(2977:2977): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:39:56:000 FILESYSTEM/(2977:2977): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:39:56:001 FILESYSTEM/(2977:2977): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:39:56:007 FILESYSTEM/(2977:2977): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:39:56:008 FILESYSTEM/(2977:2977): Servidor listo para recibir al cliente 
+
+[INFO] 03:40:39:797 FILESYSTEM/(2977:2977): Mostrando data del archivo mapeado en el archivo original: 
+
+[INFO] 03:40:51:863 FILESYSTEM/(2996:2996): Config cargada en filesystem
+[INFO] 03:40:51:864 FILESYSTEM/(2996:2996): El cliente se conectara a 127.0.0.1:8002 
+
+[INFO] 03:40:51:865 FILESYSTEM/(2996:2996): Cliente conectado en 127.0.0.1:8002 (a MEMORIA)
+
+[INFO] 03:40:51:866 FILESYSTEM/(2996:2996): Conexión exitosa con el modulo MEMORIA 
+
+[INFO] 03:40:51:870 FILESYSTEM/(2996:2996): Escuchando en 127.0.0.1:8003 (FILESYSTEM)
+
+[INFO] 03:40:51:870 FILESYSTEM/(2996:2996): Servidor listo para recibir al cliente 
+
+[INFO] 03:42:17:768 FILESYSTEM/(2996:2996): Mostrando data del archivo mapeado en el archivo original: 
+

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdbool.h": "c",
+			"sockets.h": "c",
+			"init.h": "c",
+			"consola.h": "c"
+		}
+	}
+}

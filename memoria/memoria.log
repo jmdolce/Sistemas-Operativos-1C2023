@@ -1,0 +1,560 @@
+[INFO] 03:20:27:790 MEMORIA/(2589:2589): Escuchando en 10.0.2.15:8002 (MEMORIA)
+
+[INFO] 03:20:27:792 MEMORIA/(2589:2589): Servidor listo para recibir al cliente 
+
+[INFO] 03:21:44:486 MEMORIA/(2658:2658): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:21:44:489 MEMORIA/(2658:2658): Servidor listo para recibir al cliente 
+
+[INFO] 03:22:41:007 MEMORIA/(2658:2658): Tamanio maximo de segmento: 128
+[INFO] 03:22:41:007 MEMORIA/(2658:2658): Estructuras administrativas inicializadas 
+
+[INFO] 03:24:52:751 MEMORIA/(2704:2704): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:24:52:753 MEMORIA/(2704:2704): Servidor listo para recibir al cliente 
+
+[INFO] 03:25:07:338 MEMORIA/(2722:2722): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:25:07:343 MEMORIA/(2722:2722): Servidor listo para recibir al cliente 
+
+[INFO] 03:25:12:592 MEMORIA/(2722:2722): Tamanio maximo de segmento: 128
+[INFO] 03:25:12:593 MEMORIA/(2722:2722): Estructuras administrativas inicializadas 
+
+[WARNING] 03:25:13:353 MEMORIA/(2722:2722): Creacion de proceso PID: 1 
+
+[WARNING] 03:25:14:378 MEMORIA/(2722:2722): Creacion de proceso PID: 2 
+
+[WARNING] 03:25:15:381 MEMORIA/(2722:2722): Creacion de proceso PID: 3 
+
+[WARNING] 03:25:31:584 MEMORIA/(2722:2722): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:25:59:277 MEMORIA/(2722:2722): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:26:00:325 MEMORIA/(2722:2722): Eliminacion de proceso PID: 3 
+
+[INFO] 03:26:24:564 MEMORIA/(2749:2749): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:26:24:566 MEMORIA/(2749:2749): Servidor listo para recibir al cliente 
+
+[INFO] 03:26:31:556 MEMORIA/(2749:2749): Tamanio maximo de segmento: 128
+[INFO] 03:26:31:557 MEMORIA/(2749:2749): Estructuras administrativas inicializadas 
+
+[WARNING] 03:26:34:057 MEMORIA/(2749:2749): Creacion de proceso PID: 1 
+
+[WARNING] 03:26:35:076 MEMORIA/(2749:2749): Creacion de proceso PID: 2 
+
+[WARNING] 03:26:36:090 MEMORIA/(2749:2749): Creacion de proceso PID: 3 
+
+[WARNING] 03:26:52:300 MEMORIA/(2749:2749): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:27:19:989 MEMORIA/(2749:2749): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:27:21:048 MEMORIA/(2749:2749): Eliminacion de proceso PID: 3 
+
+[INFO] 03:28:03:867 MEMORIA/(2770:2770): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:28:03:870 MEMORIA/(2770:2770): Servidor listo para recibir al cliente 
+
+[INFO] 03:28:15:045 MEMORIA/(2770:2770): Tamanio maximo de segmento: 128
+[INFO] 03:28:15:045 MEMORIA/(2770:2770): Estructuras administrativas inicializadas 
+
+[WARNING] 03:28:16:926 MEMORIA/(2770:2770): Creacion de proceso PID: 1 
+
+[WARNING] 03:28:17:930 MEMORIA/(2770:2770): Creacion de proceso PID: 2 
+
+[WARNING] 03:28:18:948 MEMORIA/(2770:2770): Creacion de proceso PID: 3 
+
+[WARNING] 03:28:39:257 MEMORIA/(2770:2770): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:29:02:862 MEMORIA/(2770:2770): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:29:03:916 MEMORIA/(2770:2770): Eliminacion de proceso PID: 3 
+
+[ERROR] 03:29:07:375 MEMORIA/(2770:2770): El cliente KERNEL se desconecto. Terminando Servidor 
+
+[INFO] 03:29:47:934 MEMORIA/(2793:2793): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:29:47:935 MEMORIA/(2793:2793): Servidor listo para recibir al cliente 
+
+[INFO] 03:29:51:644 MEMORIA/(2793:2793): Tamanio maximo de segmento: 128
+[INFO] 03:29:51:644 MEMORIA/(2793:2793): Estructuras administrativas inicializadas 
+
+[WARNING] 03:29:57:525 MEMORIA/(2793:2793): Creacion de proceso PID: 1 
+
+[WARNING] 03:29:58:525 MEMORIA/(2793:2793): Creacion de proceso PID: 2 
+
+[WARNING] 03:29:59:539 MEMORIA/(2793:2793): Creacion de proceso PID: 3 
+
+[WARNING] 03:30:51:205 MEMORIA/(2793:2793): Creacion de proceso PID: 4 
+
+[ERROR] 03:31:00:004 MEMORIA/(2793:2793): El cliente KERNEL se desconecto. Terminando Servidor 
+
+[INFO] 03:31:32:026 MEMORIA/(2851:2851): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:31:32:029 MEMORIA/(2851:2851): Servidor listo para recibir al cliente 
+
+[INFO] 03:31:35:813 MEMORIA/(2851:2851): Tamanio maximo de segmento: 128
+[INFO] 03:31:35:813 MEMORIA/(2851:2851): Estructuras administrativas inicializadas 
+
+[WARNING] 03:31:43:063 MEMORIA/(2851:2851): Creacion de proceso PID: 1 
+
+[WARNING] 03:31:43:268 MEMORIA/(2851:2851): Creacion de proceso PID: 2 
+
+[WARNING] 03:31:43:489 MEMORIA/(2851:2851): Creacion de proceso PID: 3 
+
+[WARNING] 03:31:43:687 MEMORIA/(2851:2851): Creacion de proceso PID: 4 
+
+[WARNING] 03:31:44:128 MEMORIA/(2851:2851): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:31:45:153 MEMORIA/(2851:2851): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:31:47:162 MEMORIA/(2851:2855): PID: 3 - Accion: ESCRIBIR - Direccion fisica: 124 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:31:48:162 MEMORIA/(2851:2855): Datos escritos en memoria por peticion de CPU: HOLA 
+
+[WARNING] 03:31:48:165 MEMORIA/(2851:2855): PID: 3 - Accion: LEER - Direccion fisica: 124 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:31:49:166 MEMORIA/(2851:2855): Datos leidos de memoria por peticion de CPU: HOLA 
+
+[WARNING] 03:31:49:213 MEMORIA/(2851:2851): Eliminacion de proceso PID: 3 
+
+[WARNING] 03:31:49:257 MEMORIA/(2851:2851): PID: 4 - Crear Segmento: 1 - Base: 128 - Tamanio: 256 
+
+[WARNING] 03:31:49:300 MEMORIA/(2851:2851): PID: 4 - Crear Segmento: 2 - Base: 384 - Tamanio: 256 
+
+[WARNING] 03:31:49:345 MEMORIA/(2851:2851): PID: 4 - Crear Segmento: 3 - Base: 640 - Tamanio: 256 
+
+[WARNING] 03:31:49:437 MEMORIA/(2851:2851): Eliminacion de proceso PID: 4 
+
+[INFO] 03:32:31:285 MEMORIA/(2890:2890): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:32:31:287 MEMORIA/(2890:2890): Servidor listo para recibir al cliente 
+
+[INFO] 03:33:01:167 MEMORIA/(2890:2890): Tamanio maximo de segmento: 256
+[INFO] 03:33:01:167 MEMORIA/(2890:2890): Estructuras administrativas inicializadas 
+
+[WARNING] 03:33:06:938 MEMORIA/(2890:2890): Creacion de proceso PID: 1 
+
+[WARNING] 03:33:07:945 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 0 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:08:945 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonicTheHedgehog 
+
+[WARNING] 03:33:08:948 MEMORIA/(2890:2890): Creacion de proceso PID: 2 
+
+[WARNING] 03:33:09:955 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 32 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:10:955 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonyPlaystation1 
+
+[WARNING] 03:33:11:960 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 48 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:12:961 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonyPlaystation2 
+
+[WARNING] 03:33:13:966 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 64 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:14:967 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonyPlaystation3 
+
+[WARNING] 03:33:15:973 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 80 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:16:974 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonyPlaystation4 
+
+[WARNING] 03:33:17:984 MEMORIA/(2890:2894): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 96 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:33:18:985 MEMORIA/(2890:2894): Datos escritos en memoria por peticion de CPU: SonyPlaystation5 
+
+[WARNING] 03:34:04:289 MEMORIA/(2890:2895): PID: 1 - Accion: LEER - Direccion fisica: 32 - Tamanio: 80 - Origen FILESYSTEM 
+
+[INFO] 03:34:05:290 MEMORIA/(2890:2895): Datos leidos de memoria por peticion de FS: SonyPlaystation1SonyPlaystation2SonyPlaystation3SonyPlaystation4SonyPlaystation5 
+
+[WARNING] 03:34:05:293 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 1 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:34:05:298 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 2 - Base: 192 - Tamanio: 64 
+
+[WARNING] 03:34:05:345 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 3 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:34:05:389 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 4 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:34:05:432 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 5 - Base: 384 - Tamanio: 128 
+
+[WARNING] 03:34:05:477 MEMORIA/(2890:2890): PID: 2 - Eliminar Segmento: 2 - Base: 192 - Tamanio: 64 
+
+[WARNING] 03:34:05:522 MEMORIA/(2890:2890): PID: 2 - Eliminar Segmento: 4 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:34:50:321 MEMORIA/(2890:2890): Solicitud de compactacion 
+
+[WARNING] 03:35:20:321 MEMORIA/(2890:2890): ENTRE A MOSTRAR TABLA
+[WARNING] 03:35:20:324 MEMORIA/(2890:2890): PID: 1 - Segmento: 0 - Base: 0 - Tamanio: 128 
+
+[WARNING] 03:35:20:324 MEMORIA/(2890:2890): ENTRE A MOSTRAR TABLA
+[WARNING] 03:35:20:325 MEMORIA/(2890:2890): PID: 2 - Segmento: 0 - Base: 0 - Tamanio: 128 
+
+[WARNING] 03:35:20:325 MEMORIA/(2890:2890): PID: 2 - Segmento: 1 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:35:20:326 MEMORIA/(2890:2890): PID: 2 - Segmento: 3 - Base: 192 - Tamanio: 64 
+
+[WARNING] 03:35:20:326 MEMORIA/(2890:2890): PID: 2 - Segmento: 5 - Base: 256 - Tamanio: 128 
+
+[WARNING] 03:35:20:326 MEMORIA/(2890:2890): PID: 2 - Crear Segmento: 6 - Base: 384 - Tamanio: 128 
+
+[WARNING] 03:35:20:376 MEMORIA/(2890:2890): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:35:20:601 MEMORIA/(2890:2895): PID: 1 - Accion: LEER - Direccion fisica: 0 - Tamanio: 16 - Origen FILESYSTEM 
+
+[INFO] 03:35:21:601 MEMORIA/(2890:2895): Datos leidos de memoria por peticion de FS: SonicTheHedgehog 
+
+[WARNING] 03:35:36:668 MEMORIA/(2890:2890): Eliminacion de proceso PID: 1 
+
+[INFO] 03:35:59:809 MEMORIA/(2928:2928): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:35:59:811 MEMORIA/(2928:2928): Servidor listo para recibir al cliente 
+
+[INFO] 03:36:05:359 MEMORIA/(2928:2928): Tamanio maximo de segmento: 256
+[INFO] 03:36:05:359 MEMORIA/(2928:2928): Estructuras administrativas inicializadas 
+
+[WARNING] 03:36:08:087 MEMORIA/(2928:2928): Creacion de proceso PID: 1 
+
+[WARNING] 03:36:09:107 MEMORIA/(2928:2928): Creacion de proceso PID: 2 
+
+[WARNING] 03:36:10:106 MEMORIA/(2928:2928): Creacion de proceso PID: 3 
+
+[WARNING] 03:36:11:107 MEMORIA/(2928:2928): Creacion de proceso PID: 4 
+
+[WARNING] 03:36:23:226 MEMORIA/(2928:2933): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 16 - Tamanio: 16 - Origen FILESYSTEM 
+
+[INFO] 03:36:24:226 MEMORIA/(2928:2933): Datos escritos en memoria por peticion FS: SonicTheHedgehog 
+
+[WARNING] 03:36:24:230 MEMORIA/(2928:2932): PID: 1 - Accion: LEER - Direccion fisica: 16 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:36:25:231 MEMORIA/(2928:2932): Datos leidos de memoria por peticion de CPU: SonicTheHedgehog 
+
+[WARNING] 03:36:25:328 MEMORIA/(2928:2928): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:36:40:374 MEMORIA/(2928:2933): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 16 - Tamanio: 16 - Origen FILESYSTEM 
+
+[INFO] 03:36:41:375 MEMORIA/(2928:2933): Datos escritos en memoria por peticion FS: SonicTheHedgehog 
+
+[WARNING] 03:36:41:377 MEMORIA/(2928:2932): PID: 2 - Accion: LEER - Direccion fisica: 16 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:36:42:378 MEMORIA/(2928:2932): Datos leidos de memoria por peticion de CPU: SonicTheHedgehog 
+
+[WARNING] 03:36:42:434 MEMORIA/(2928:2928): Eliminacion de proceso PID: 2 
+
+[WARNING] 03:36:57:536 MEMORIA/(2928:2933): PID: 3 - Accion: ESCRIBIR - Direccion fisica: 16 - Tamanio: 16 - Origen FILESYSTEM 
+
+[INFO] 03:36:58:537 MEMORIA/(2928:2933): Datos escritos en memoria por peticion FS: SonicTheHedgehog 
+
+[WARNING] 03:36:58:543 MEMORIA/(2928:2932): PID: 3 - Accion: LEER - Direccion fisica: 16 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:36:59:543 MEMORIA/(2928:2932): Datos leidos de memoria por peticion de CPU: SonicTheHedgehog 
+
+[WARNING] 03:36:59:588 MEMORIA/(2928:2928): Eliminacion de proceso PID: 3 
+
+[WARNING] 03:37:14:679 MEMORIA/(2928:2933): PID: 4 - Accion: ESCRIBIR - Direccion fisica: 16 - Tamanio: 16 - Origen FILESYSTEM 
+
+[INFO] 03:37:15:680 MEMORIA/(2928:2933): Datos escritos en memoria por peticion FS: SonicTheHedgehog 
+
+[WARNING] 03:37:15:685 MEMORIA/(2928:2932): PID: 4 - Accion: LEER - Direccion fisica: 16 - Tamanio: 16 - Origen CPU 
+
+[INFO] 03:37:16:685 MEMORIA/(2928:2932): Datos leidos de memoria por peticion de CPU: SonicTheHedgehog 
+
+[WARNING] 03:37:16:736 MEMORIA/(2928:2928): Eliminacion de proceso PID: 4 
+
+[INFO] 03:39:02:790 MEMORIA/(2951:2951): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:39:02:791 MEMORIA/(2951:2951): Servidor listo para recibir al cliente 
+
+[INFO] 03:39:06:563 MEMORIA/(2951:2951): Tamanio maximo de segmento: 256
+[INFO] 03:39:06:563 MEMORIA/(2951:2951): Estructuras administrativas inicializadas 
+
+[WARNING] 03:39:07:150 MEMORIA/(2951:2951): Creacion de proceso PID: 1 
+
+[WARNING] 03:39:08:156 MEMORIA/(2951:2955): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:09:157 MEMORIA/(2951:2955): Datos escritos en memoria por peticion de CPU: h014 
+
+[WARNING] 03:39:09:200 MEMORIA/(2951:2951): PID: 1 - Crear Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:39:10:152 MEMORIA/(2951:2951): Creacion de proceso PID: 2 
+
+[WARNING] 03:39:10:154 MEMORIA/(2951:2955): PID: 2 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:11:155 MEMORIA/(2951:2955): Datos leidos de memoria por peticion de CPU: h014 
+
+[WARNING] 03:39:11:201 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 1 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:39:11:252 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 2 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:39:11:297 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 3 - Base: 384 - Tamanio: 64 
+
+[WARNING] 03:39:11:341 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 4 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:39:11:385 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 5 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:39:11:428 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 6 - Base: 576 - Tamanio: 64 
+
+[WARNING] 03:39:11:473 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 7 - Base: 640 - Tamanio: 64 
+
+[WARNING] 03:39:11:516 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 8 - Base: 704 - Tamanio: 64 
+
+[WARNING] 03:39:12:520 MEMORIA/(2951:2955): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:13:520 MEMORIA/(2951:2955): Datos escritos en memoria por peticion de CPU: Ch4uê 
+
+[WARNING] 03:39:13:521 MEMORIA/(2951:2951): Creacion de proceso PID: 3 
+
+[WARNING] 03:39:13:701 MEMORIA/(2951:2951): PID: 1 - Eliminar Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:39:13:702 MEMORIA/(2951:2955): PID: 1 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:14:702 MEMORIA/(2951:2955): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:39:14:836 MEMORIA/(2951:2951): PID: 2 - Crear Segmento: 9 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:39:15:839 MEMORIA/(2951:2955): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 256 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:39:16:839 MEMORIA/(2951:2955): Datos escritos en memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:39:17:845 MEMORIA/(2951:2955): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 704 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:39:18:846 MEMORIA/(2951:2955): Datos escritos en memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:39:18:980 MEMORIA/(2951:2951): PID: 3 - Crear Segmento: 1 - Base: 768 - Tamanio: 256 
+
+[WARNING] 03:39:18:981 MEMORIA/(2951:2955): PID: 3 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:19:981 MEMORIA/(2951:2955): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:39:20:074 MEMORIA/(2951:2955): PID: 2 - Accion: LEER - Direccion fisica: 256 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:39:21:074 MEMORIA/(2951:2955): Datos leidos de memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:39:21:121 MEMORIA/(2951:2951): PID: 2 - Eliminar Segmento: 1 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:39:21:122 MEMORIA/(2951:2955): PID: 2 - Accion: LEER - Direccion fisica: 704 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:39:22:122 MEMORIA/(2951:2955): Datos leidos de memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:39:22:165 MEMORIA/(2951:2951): PID: 2 - Eliminar Segmento: 2 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:39:22:211 MEMORIA/(2951:2951): PID: 2 - Eliminar Segmento: 4 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:39:22:257 MEMORIA/(2951:2951): PID: 2 - Eliminar Segmento: 5 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:39:22:388 MEMORIA/(2951:2951): PID: 3 - Crear Segmento: 2 - Base: 192 - Tamanio: 128 
+
+[WARNING] 03:39:22:564 MEMORIA/(2951:2951): Eliminacion de proceso PID: 3 
+
+[WARNING] 03:39:22:566 MEMORIA/(2951:2951): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:39:22:609 MEMORIA/(2951:2951): Eliminacion de proceso PID: 2 
+
+[INFO] 03:39:40:424 MEMORIA/(2973:2973): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:39:40:425 MEMORIA/(2973:2973): Servidor listo para recibir al cliente 
+
+[INFO] 03:39:50:211 MEMORIA/(2975:2975): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:39:50:214 MEMORIA/(2975:2975): Servidor listo para recibir al cliente 
+
+[INFO] 03:39:56:704 MEMORIA/(2975:2975): Tamanio maximo de segmento: 256
+[INFO] 03:39:56:704 MEMORIA/(2975:2975): Estructuras administrativas inicializadas 
+
+[WARNING] 03:39:57:556 MEMORIA/(2975:2975): Creacion de proceso PID: 1 
+
+[WARNING] 03:39:58:567 MEMORIA/(2975:2979): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:39:59:567 MEMORIA/(2975:2979): Datos escritos en memoria por peticion de CPU: h014 
+
+[WARNING] 03:39:59:612 MEMORIA/(2975:2975): PID: 1 - Crear Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:40:00:555 MEMORIA/(2975:2975): Creacion de proceso PID: 2 
+
+[WARNING] 03:40:00:559 MEMORIA/(2975:2979): PID: 2 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:01:559 MEMORIA/(2975:2979): Datos leidos de memoria por peticion de CPU: h014 
+
+[WARNING] 03:40:01:604 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 1 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:40:01:653 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 2 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:40:01:697 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 3 - Base: 384 - Tamanio: 64 
+
+[WARNING] 03:40:01:741 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 4 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:40:01:784 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 5 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:40:01:838 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 6 - Base: 576 - Tamanio: 64 
+
+[WARNING] 03:40:01:881 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 7 - Base: 640 - Tamanio: 64 
+
+[WARNING] 03:40:01:925 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 8 - Base: 704 - Tamanio: 64 
+
+[WARNING] 03:40:02:927 MEMORIA/(2975:2979): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:03:928 MEMORIA/(2975:2979): Datos escritos en memoria por peticion de CPU: Ch4u4 
+
+[WARNING] 03:40:03:929 MEMORIA/(2975:2975): Creacion de proceso PID: 3 
+
+[WARNING] 03:40:04:105 MEMORIA/(2975:2975): PID: 1 - Eliminar Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:40:04:105 MEMORIA/(2975:2979): PID: 1 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:05:105 MEMORIA/(2975:2979): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:40:05:236 MEMORIA/(2975:2975): PID: 2 - Crear Segmento: 9 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:40:06:239 MEMORIA/(2975:2979): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 256 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:40:07:239 MEMORIA/(2975:2979): Datos escritos en memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:40:08:245 MEMORIA/(2975:2979): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 704 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:40:09:246 MEMORIA/(2975:2979): Datos escritos en memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:40:09:380 MEMORIA/(2975:2975): PID: 3 - Crear Segmento: 1 - Base: 768 - Tamanio: 256 
+
+[WARNING] 03:40:09:381 MEMORIA/(2975:2979): PID: 3 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:10:382 MEMORIA/(2975:2979): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:40:10:474 MEMORIA/(2975:2979): PID: 2 - Accion: LEER - Direccion fisica: 256 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:40:11:475 MEMORIA/(2975:2979): Datos leidos de memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:40:11:520 MEMORIA/(2975:2975): PID: 2 - Eliminar Segmento: 1 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:40:11:521 MEMORIA/(2975:2979): PID: 2 - Accion: LEER - Direccion fisica: 704 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:40:12:521 MEMORIA/(2975:2979): Datos leidos de memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:40:12:565 MEMORIA/(2975:2975): PID: 2 - Eliminar Segmento: 2 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:40:12:617 MEMORIA/(2975:2975): PID: 2 - Eliminar Segmento: 4 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:40:12:661 MEMORIA/(2975:2975): PID: 2 - Eliminar Segmento: 5 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:40:12:793 MEMORIA/(2975:2975): PID: 3 - Crear Segmento: 2 - Base: 448 - Tamanio: 128 
+
+[WARNING] 03:40:12:970 MEMORIA/(2975:2975): Eliminacion de proceso PID: 3 
+
+[WARNING] 03:40:12:973 MEMORIA/(2975:2975): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:40:13:012 MEMORIA/(2975:2975): Eliminacion de proceso PID: 2 
+
+[INFO] 03:40:49:258 MEMORIA/(2994:2994): Escuchando en 127.0.0.1:8002 (MEMORIA)
+
+[INFO] 03:40:49:260 MEMORIA/(2994:2994): Servidor listo para recibir al cliente 
+
+[INFO] 03:40:52:530 MEMORIA/(2994:2994): Tamanio maximo de segmento: 256
+[INFO] 03:40:52:531 MEMORIA/(2994:2994): Estructuras administrativas inicializadas 
+
+[WARNING] 03:40:53:591 MEMORIA/(2994:2994): Creacion de proceso PID: 1 
+
+[WARNING] 03:40:54:612 MEMORIA/(2994:2998): PID: 1 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:55:614 MEMORIA/(2994:2998): Datos escritos en memoria por peticion de CPU: h014 
+
+[WARNING] 03:40:55:665 MEMORIA/(2994:2994): PID: 1 - Crear Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:40:56:600 MEMORIA/(2994:2994): Creacion de proceso PID: 2 
+
+[WARNING] 03:40:56:603 MEMORIA/(2994:2998): PID: 2 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:57:603 MEMORIA/(2994:2998): Datos leidos de memoria por peticion de CPU: h014 
+
+[WARNING] 03:40:57:652 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 1 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:40:57:697 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 2 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:40:57:740 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 3 - Base: 384 - Tamanio: 64 
+
+[WARNING] 03:40:57:785 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 4 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:40:57:828 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 5 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:40:57:873 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 6 - Base: 576 - Tamanio: 64 
+
+[WARNING] 03:40:57:917 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 7 - Base: 640 - Tamanio: 64 
+
+[WARNING] 03:40:57:960 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 8 - Base: 704 - Tamanio: 64 
+
+[WARNING] 03:40:58:963 MEMORIA/(2994:2998): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:40:59:964 MEMORIA/(2994:2998): Datos escritos en memoria por peticion de CPU: Ch4u≥ 
+
+[WARNING] 03:40:59:967 MEMORIA/(2994:2994): Creacion de proceso PID: 3 
+
+[WARNING] 03:41:00:159 MEMORIA/(2994:2994): PID: 1 - Eliminar Segmento: 1 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:41:00:160 MEMORIA/(2994:2998): PID: 1 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:41:01:160 MEMORIA/(2994:2998): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:41:01:292 MEMORIA/(2994:2994): PID: 2 - Crear Segmento: 9 - Base: 768 - Tamanio: 64 
+
+[WARNING] 03:41:02:294 MEMORIA/(2994:2998): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 256 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:41:03:295 MEMORIA/(2994:2998): Datos escritos en memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:41:04:299 MEMORIA/(2994:2998): PID: 2 - Accion: ESCRIBIR - Direccion fisica: 704 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:41:05:300 MEMORIA/(2994:2998): Datos escritos en memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:41:05:437 MEMORIA/(2994:2994): Solicitud de compactacion 
+
+[WARNING] 03:42:05:438 MEMORIA/(2994:2994): ENTRE A MOSTRAR TABLA
+[WARNING] 03:42:05:440 MEMORIA/(2994:2994): PID: 1 - Segmento: 0 - Base: 0 - Tamanio: 128 
+
+[WARNING] 03:42:05:442 MEMORIA/(2994:2994): ENTRE A MOSTRAR TABLA
+[WARNING] 03:42:05:442 MEMORIA/(2994:2994): PID: 2 - Segmento: 0 - Base: 0 - Tamanio: 128 
+
+[WARNING] 03:42:05:443 MEMORIA/(2994:2994): PID: 2 - Segmento: 1 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:42:05:443 MEMORIA/(2994:2994): PID: 2 - Segmento: 2 - Base: 192 - Tamanio: 64 
+
+[WARNING] 03:42:05:444 MEMORIA/(2994:2994): PID: 2 - Segmento: 3 - Base: 256 - Tamanio: 64 
+
+[WARNING] 03:42:05:444 MEMORIA/(2994:2994): PID: 2 - Segmento: 4 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:42:05:445 MEMORIA/(2994:2994): PID: 2 - Segmento: 5 - Base: 384 - Tamanio: 64 
+
+[WARNING] 03:42:05:445 MEMORIA/(2994:2994): PID: 2 - Segmento: 6 - Base: 448 - Tamanio: 64 
+
+[WARNING] 03:42:05:446 MEMORIA/(2994:2994): PID: 2 - Segmento: 7 - Base: 512 - Tamanio: 64 
+
+[WARNING] 03:42:05:446 MEMORIA/(2994:2994): PID: 2 - Segmento: 8 - Base: 576 - Tamanio: 64 
+
+[WARNING] 03:42:05:447 MEMORIA/(2994:2994): PID: 2 - Segmento: 9 - Base: 640 - Tamanio: 64 
+
+[WARNING] 03:42:05:448 MEMORIA/(2994:2994): ENTRE A MOSTRAR TABLA
+[WARNING] 03:42:05:448 MEMORIA/(2994:2994): PID: 3 - Segmento: 0 - Base: 0 - Tamanio: 128 
+
+[WARNING] 03:42:05:449 MEMORIA/(2994:2994): PID: 3 - Crear Segmento: 1 - Base: 704 - Tamanio: 256 
+
+[WARNING] 03:42:05:449 MEMORIA/(2994:2998): PID: 3 - Accion: LEER - Direccion fisica: 12 - Tamanio: 4 - Origen CPU 
+
+[INFO] 03:42:06:450 MEMORIA/(2994:2998): Datos leidos de memoria por peticion de CPU: Ch4u 
+
+[WARNING] 03:42:06:497 MEMORIA/(2994:2998): PID: 2 - Accion: LEER - Direccion fisica: 128 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:42:07:497 MEMORIA/(2994:2998): Datos leidos de memoria por peticion de CPU: CoscuWin 
+
+[WARNING] 03:42:07:545 MEMORIA/(2994:2994): PID: 2 - Eliminar Segmento: 1 - Base: 128 - Tamanio: 64 
+
+[WARNING] 03:42:07:546 MEMORIA/(2994:2998): PID: 2 - Accion: LEER - Direccion fisica: 576 - Tamanio: 8 - Origen CPU 
+
+[INFO] 03:42:08:546 MEMORIA/(2994:2998): Datos leidos de memoria por peticion de CPU: GermanNo 
+
+[WARNING] 03:42:08:593 MEMORIA/(2994:2994): PID: 2 - Eliminar Segmento: 2 - Base: 192 - Tamanio: 64 
+
+[WARNING] 03:42:08:636 MEMORIA/(2994:2994): PID: 2 - Eliminar Segmento: 4 - Base: 320 - Tamanio: 64 
+
+[WARNING] 03:42:08:682 MEMORIA/(2994:2994): PID: 2 - Eliminar Segmento: 5 - Base: 384 - Tamanio: 64 
+
+[WARNING] 03:42:08:816 MEMORIA/(2994:2994): PID: 3 - Crear Segmento: 2 - Base: 128 - Tamanio: 128 
+
+[WARNING] 03:42:08:994 MEMORIA/(2994:2994): Eliminacion de proceso PID: 3 
+
+[WARNING] 03:42:08:997 MEMORIA/(2994:2994): Eliminacion de proceso PID: 1 
+
+[WARNING] 03:42:09:041 MEMORIA/(2994:2994): Eliminacion de proceso PID: 2 
+
