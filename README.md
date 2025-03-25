@@ -2,11 +2,11 @@
 
 ## Vista General
 
-###📌 Descripción
+### Descripción 📌
 
 El objetivo del TP es la simulación de un sistema distribuido compuesto por diferentes módulos que interactúan entre sí, permitiendo la ejecución de procesos con planificación, administración de memoria y manejo de archivos.
 
-###🏗️ Arquitectura del sistema
+### Arquitectura del sistema 🏗️
 
 El sistema está compuesto por cinco módulos principales:
 
@@ -16,13 +16,13 @@ CPU: Ejecuta instrucciones de los procesos simulados.
 Memoria: Administra la memoria de los procesos con segmentación.
 File System: Simula un sistema de archivos basado en un esquema indexado.
 
-###⚙️ Tecnologías utilizadas
+### Tecnologías utilizadas ⚙️ 
 
 Lenguaje de programación: C
 Sistema operativo: Linux
 Librerías: Sockets, pthreads, commons
 
-###📊 Principales funcionalidades implementadas
+### Principales funcionalidades implementadas 📊
 
 ✔️ Planificación de procesos (FIFO y HRRN).
 ✔️ Administración de memoria (segmentación con algoritmos de asignación First Fit, Best Fit y Worst Fit).
