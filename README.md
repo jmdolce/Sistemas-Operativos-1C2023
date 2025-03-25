@@ -10,11 +10,11 @@ El objetivo del TP es la simulación de un sistema distribuido compuesto por dif
 
 El sistema está compuesto por cinco módulos principales:
 
-Consola: Envia los procesos al sistema con sus instrucciones.
-Kernel: Administra la ejecución de procesos y la comunicación entre módulos.
-CPU: Ejecuta instrucciones de los procesos simulados.
-Memoria: Administra la memoria de los procesos con segmentación.
-File System: Simula un sistema de archivos basado en un esquema indexado.
+- Consola: Envia los procesos al sistema con sus instrucciones.
+- Kernel: Administra la ejecución de procesos y la comunicación entre módulos.
+- CPU: Ejecuta instrucciones de los procesos simulados.
+- Memoria: Administra la memoria de los procesos con segmentación.
+- File System: Simula un sistema de archivos basado en un esquema indexado.
 
 ### Tecnologías utilizadas ⚙️ 
 
@@ -24,13 +24,12 @@ Librerías: Sockets, pthreads, commons
 
 ### Principales funcionalidades implementadas 📊
 
-✔️ Planificación de procesos (FIFO y HRRN).
-✔️ Administración de memoria (segmentación con algoritmos de asignación First Fit, Best Fit y Worst Fit).
-✔️ Manejo de archivos (operaciones de apertura, lectura, escritura y truncado).
-✔️ Sincronización de procesos (manejo de recursos y bloqueos con WAIT/SIGNAL).
-✔️ Compactación de memoria para optimizar el uso del espacio.
-✔️ Logs detallados de cada operación realizada.
-
+- Planificación de procesos (FIFO y HRRN).
+- Administración de memoria (segmentación con algoritmos de asignación First Fit, Best Fit y Worst Fit).
+- Manejo de archivos (operaciones de apertura, lectura, escritura y truncado).
+- Sincronización de procesos (manejo de recursos y bloqueos con WAIT/SIGNAL).
+- Compactación de memoria para optimizar el uso del espacio.
+- Logs detallados de cada operación realizada.
 
 
 ## Guia de deployment
